@@ -15,6 +15,10 @@ I created this repository and this package due to it takes a lot of time to cont
 3) **You can use all original material attributes: min, max, formControl and others**
 
 ## Changelog
+## 8.0.8
+Fixed: remove unnecessary moduleId: module.id
+## 8.0.7
+Works with angular 11.0
 ## 8.0.6
 Fixed randomly selected date when using `rangeHoverEffect = false` and changing between months
 ## 8.0.5
